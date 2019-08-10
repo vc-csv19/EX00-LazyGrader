@@ -35,7 +35,7 @@ In order to start this assignment, go to
 [https://www.vc-computerscience.club](https://www.vc-computerscience.club). There you should be greeted
 by a login similar to the following screenshot:
 
-![Image of login screen](login.png =250x250)
+![Image of login screen](login.png)
 
 Your username is your MyVCCCD email address. If you don't know it, log into the VCCCD website and
 find it. Your password is your 900 student number. This number starts with 900 and is 9 digits long.
