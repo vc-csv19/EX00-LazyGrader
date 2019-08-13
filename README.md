@@ -76,7 +76,7 @@ naming of the account or the email address associated with it, so you can use an
 username for GitHub.
 
 If you have never used GitHub and do not already have an account, go to 
-[GitHub](https://www.github.com). You should see a screen that looks similar to this screenshot:
+[GitHub](https://www.github.com){:target="_blank"}. You should see a screen that looks similar to this screenshot:
  
 ![GitHub login page](github.png)
 
