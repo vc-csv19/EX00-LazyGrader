@@ -9,7 +9,7 @@ are necessary to complete and turn-in assignments for this course.
 After completing this assignment you should be able to start, complete
 and even submit grades for each of the programming assignments in this
 class. In addition, you will also be able to communicate with me, the
-instructor, and other students using the chat application Slacker.
+instructor, and other students using the chat application Slack.
 
 Follow the directions below to complete this assignment. If you do
 not complete each stage correctly, it may be possible that you cannot
@@ -99,5 +99,8 @@ Be aware: all communications in this application are recorded and logged. Please
 each other. I have never had a problem with students misbehaving on this application, but if they
 do, I have no problem turning over the logs to the proper entities investigating misconduct.
 
-To create your account for this application, go to [https://vc-csv11-fall2019.slack.com](https://vc-csv11-fall2019.slack.com).
+To create your account for this application, go to [https://vc-csv11-fall2019.slack.com](https://vc-csv11-fall2019.slack.com). Use your my.vcccd.edu email addres (or vcccd.edu, if you have one) to create your account.
+If you use an email address with another domain, such as @gmail.com, you will not be able to register for your
+Slack account. Choose a display name, something easily recognizable as you, and record that in LazyGrader where
+it asks for your Slack ID.
  
