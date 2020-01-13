@@ -39,34 +39,23 @@ by a login similar to the following screenshot:
 
 Your username is your MyVCCCD email address. If you don't know it, log into the VCCCD website and
 find it. Your password is your 900 student number, without the 900. This number starts with 900 and is 9 digits long.
-As part of this assignment you will change this to a password of your choosing. For now, login using
-this default password.
+For now, login using this default password.
 
 Once you've logged in you should go to the home screen with a list of all the courses you are 
 enrolled in with me. That screen should look something like the following screenshot:
 
 ![Image of home screen](home-screen.png)
 
-Next, you will need to update your user information to allow LazyGrader to work correctly and to
-change your password from the default. You will need to create accounts for GitHub (unless your
+Next, you will need to update your user information to allow LazyGrader to work correctly. You will need to create accounts for GitHub (unless your
 already have one) and for Slack. Directions for creating those services are given below. Please 
 follow them to get the user IDs need for LazyGrader.
 
-Go to the user page, by clicking Students in the header navbar, and click edit. Fill in your GitHub username and Slack username. Also, change
-your password and confirm this change by entering it twice as directed on the screen. This page
+Go to the user page, by clicking Students in the header navbar, and click edit. Fill in your GitHub username and Slack username. This page
 should look similar to the following screenshot:
 
 ![Image of user edit page](edit-student.png)
 
-Once you have filled in all the information, click 'Submit' to save your information. Then, click
-on 'Change Password' to enter new password. In order to get full credit for this assignment, you
-must change your password. 
-
-As a quick 
-test, to verify that your password change is correct, Click 'Sign Out' in the upper right corner
-and relog in with the password you just created. I will grade this assignment by checking that 
-your have entered your GitHub and Slack username and that your default password not longer allows
-me to login to your account.
+Once you have filled in all the information, click 'Submit' to save your information.
 
 ### GitHub
 
